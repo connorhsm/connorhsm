@@ -15,3 +15,5 @@ steamcmd
 login blueysmits
 # Password prompt
 # Steamguard prompt
+
+quit
