@@ -16,7 +16,7 @@ sudo ufw allow 2458
 
 # Correct an issue with DO's default image
 # Remove the private IP address under eth0
-sudo sed -e '12d' /etc/netplan/50-cloud-init.yaml
+sudo sed -i '12d' /etc/netplan/50-cloud-init.yaml
 sudo netplan apply
 
 mkdir ~/valheim
