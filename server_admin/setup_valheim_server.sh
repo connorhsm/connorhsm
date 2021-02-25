@@ -23,7 +23,7 @@ mkdir ~/valheim
 mkdir ~/valheim/worlds
 
 # Download the game server
-steamcmd +runscript install_valheim.txt
+steamcmd +@NoPromptForPassword 1 +login anonymous +force_install_dir ~/valheim +app_update 896660 validate +quit
 
 # Copy original start script as steam will overwrite it during updates
 cp ~/valheim/start_server.sh ~/valheim/start_server_edit.sh
