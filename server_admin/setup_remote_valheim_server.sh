@@ -1,0 +1,11 @@
+#!/bin/bash
+set -e
+
+echo -n "\n\nEnter IP of clean DO ubuntu 20.04 server: "
+read IP
+
+ssh root@${IP} < setup_ubuntu_20.04.sh
+
+ssh steam@${IP} < install_steamcmd.sh
+
+ssh steam@${IP} < setup_valheim_server.sh
