@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Using Digital Ocean's default Ubuntu 20.04 image
+# Assumed using Digital Ocean's default Ubuntu 20.04 image
 
 echo -n "Name of the user to create and grant sudo privileges: "
 read USERNAME
