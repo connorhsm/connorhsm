@@ -3,8 +3,9 @@ set -e
 
 # Assumed using Digital Ocean's default Ubuntu 20.04 image
 
-echo -n "Name of the user to create and grant sudo privileges: "
-read USERNAME
+#echo -n "Name of the user to create and grant sudo privileges: "
+#read USERNAME
+USERNAME=$1
 
 # Whether to copy over the root user's `authorized_keys` file to the new sudo
 # user.
