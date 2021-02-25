@@ -9,7 +9,8 @@ Information about using some of these scripts
 - logout
 - ssh steam@ip-address
 - bash connorhsm/server_admin/install_steamcmd.sh
-- bash connorhsm/server_admin/setup_valheim_server.sh "Server name" "Server pass (min. 8 chars)"
+- Agree to steam license
+- bash connorhsm/server_admin/setup_valheim_server.sh "Server name" "serverpassmorethaneightchars"
 - sudo reboot
 - ssh steam@ip-address
 - screen -R valheim
