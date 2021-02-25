@@ -43,6 +43,7 @@ chown --recursive "${USERNAME}":"${USERNAME}" "${home_directory}/.ssh"
 
 # Clone this repo into new users home
 git clone https://github.com/connorhsm/connorhsm.git /home/${USERNAME}/connorhsm
+chown --recursive "${USERNAME}":"${USERNAME}" "${home_directory}/connorhsm"
 
 # Disable root SSH login with password
 sed --in-place 's/^PermitRootLogin.*/PermitRootLogin prohibit-password/g' /etc/ssh/sshd_config
