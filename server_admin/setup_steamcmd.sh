@@ -1,5 +1,4 @@
 #!/bin/bash
-set -e
 
 # Assumed setup_ubuntu_20.04.sh has been run, with user 'steam'
 
