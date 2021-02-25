@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # Assumed setup_steamcmd.sh has been run
 
