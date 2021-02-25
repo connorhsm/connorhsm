@@ -24,13 +24,6 @@ mkdir ~/valheim/worlds
 # Download the game server
 steamcmd +runscript install_valheim.txt
 
-# Get game server details
-echo -n "Server name: "
-read SERVER_NAME
-
-echo -n "Server password (min 8 chars): "
-read SERVER_PASS
-
 # Copy original start script as steam will overwrite it during updates
 cp ~/valheim/start_server.sh ~/valheim/start_server_edit.sh
 
