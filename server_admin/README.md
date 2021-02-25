@@ -10,7 +10,7 @@ Information about using some of these scripts
 - `ssh steam@ip-address`
 - `bash connorhsm/server_admin/install_steamcmd.sh`
 - Agree to Steam license
-- `bash connorhsm/server_admin/setup_valheim_server.sh "Server name" "serverpassmorethaneightchars"`
+- `bash connorhsm/server_admin/setup_valheim_server.sh "Server name" "serverpassmorethaneightchars"` (Note: These arguments don't change the actual settings yet)
 - `sudo reboot`
 - `ssh steam@ip-address`
 - `screen -R valheim`
@@ -31,3 +31,5 @@ Would be nice to try out DO's dedicated CPU's and maybe even a larger dedicated 
 Some more on the above testing: each time after the game server was started, the CPU would max out and stay that way until I destroyed the machine roughly 5 minutes later. RAM would sit at around 400MB usage. I noticed a significant difference in the option with multiple CPU's, one CPU seems to do the bulk of the work, but the second still makes a huge difference. After the game server has finished starting, both CPU's drop back to <10% usage and RAM jumps to 1.7GB.
 
 Will keep an eye on the behaviour as I test with more users.
+
+After some more testing, it **turns out this option can barely support three players**, I'm not going to bother trying more dedicated/expensive machines, I'd rather give it some more time until the game is better optimised, if that ever happens.
