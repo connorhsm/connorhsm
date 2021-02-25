@@ -12,6 +12,6 @@ sudo apt install lib32gcc1 steamcmd -y
 
 # Initiate update and login
 steamcmd
-login
+login blueysmits
 # Password prompt
 # Steamguard prompt
