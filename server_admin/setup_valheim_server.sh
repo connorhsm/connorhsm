@@ -7,6 +7,7 @@
 # https://www.pcgamer.com/au/valheim-multiplayer-dedicated-server/
 # https://www.shacknews.com/article/122720/how-to-set-up-a-valheim-dedicated-server
 # Valheim Dedicated Server Manual (Ships with dedicated server from Steam)
+# https://developer.valvesoftware.com/wiki/SteamCMD#Creating_a_script
 
 # Allow Valheim ports on firewall
 sudo ufw allow 2456
