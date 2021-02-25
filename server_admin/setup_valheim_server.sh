@@ -30,12 +30,3 @@ cp ~/valheim/start_server.sh ~/valheim/start_server_edit.sh
 
 # Insert settings into startup script
 # To Do
-
-echo ""
-echo ""
-echo -n "Server restarting. Afterwards, start Valheim with ./start_server_edit.sh in a Screen."
-echo ""
-echo ""
-
-# Apply DO config fix from earlier
-sudo reboot
