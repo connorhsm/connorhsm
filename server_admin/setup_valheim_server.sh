@@ -30,3 +30,5 @@ cp ~/valheim/start_server.sh ~/valheim/start_server_edit.sh
 
 # Insert settings into startup script
 # To Do
+
+echo "Server setup"
