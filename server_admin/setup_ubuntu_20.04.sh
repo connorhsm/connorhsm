@@ -1,4 +1,5 @@
 #!/bin/bash
+set -e
 
 # Assumed using Digital Ocean's default Ubuntu 20.04 image
 
