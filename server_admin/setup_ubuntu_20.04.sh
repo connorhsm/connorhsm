@@ -26,9 +26,6 @@ else
     passwd --delete "${USERNAME}"
 fi
 
-# Expire the sudo user's password immediately to force a change
-chage --lastday 0 "${USERNAME}"
-
 # Create SSH directory for sudo user
 home_directory="$(eval echo ~${USERNAME})"
 mkdir --parents "${home_directory}/.ssh"
