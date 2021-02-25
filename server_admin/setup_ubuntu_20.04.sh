@@ -2,13 +2,6 @@
 
 # Using Digital Ocean's default Ubuntu 20.04 image
 
-echo -n "Name of sudo user account: "
-read ans
-
-echo "Creating sudo user $ans"
-adduser ${ans}
-usermod
-
 echo -n "Name of the user to create and grant sudo privileges: "
 read USERNAME
 
