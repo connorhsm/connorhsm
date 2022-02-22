@@ -27,4 +27,10 @@ Here are some ideas to get you started:
 -->
 
 <!--START_SECTION:waka-->
+```text
+Markdown     1 hr 17 mins    █████████████▒░░░░░░░░░░░   52.81 % 
+PHP          1 hr 1 min      ██████████▒░░░░░░░░░░░░░░   41.54 % 
+Other        5 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.02 % 
+Git Config   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.34 % 
+```
 <!--END_SECTION:waka-->
