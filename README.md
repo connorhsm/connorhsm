@@ -1,6 +1,7 @@
 ### Hey! I'm Connor!
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/connorhsm/)
+
 <!--START_SECTION:waka-->
 ```text
 From: 24 January, 2022 - To: 23 February, 2022
