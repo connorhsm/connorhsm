@@ -16,3 +16,9 @@ Docker       2 mins          ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 ```
 -->
 <!--END_SECTION:waka-->
+
+![https://github-readme-streak-stats.herokuapp.com/demo/](https://github-readme-streak-stats.herokuapp.com/?user=connorhsm&theme=nord "Streaks")
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs?username=connorhsm&theme=nord&layout=compact "Top languages")
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=connorhsm&theme=nord&layout=compact "Wakatime Stats")
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=connorhsm&show_icons=true&count-private=true&theme=nord "Statistics")
+![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=connorhsm&theme=nord&column=3&row=2&no-frame=true "Trophies")
