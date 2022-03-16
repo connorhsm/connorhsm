@@ -6,7 +6,7 @@ I began teaching myself to code in 2016 and love continuing to learn new things.
 
 I've been working on [Two Hours One Life](https://github.com/twohoursonelife) since 2018. I've come and gone from this project over the years but have directly and indirectly learnt an unimaginable amount of what I know from this community.
 
-I'm currently looking for a role related to system admin or automation, get in touch :)
+I'm currently looking for a role related to system admin or automation, I'd love to have a chat :)
 
 <!--START_SECTION:waka-->
 <!-- HIDE OLD WAKATIME STATS
