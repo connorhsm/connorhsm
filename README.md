@@ -2,6 +2,11 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/connorhsm/)
 
+I began teaching myself to code in 2016 and love continuing to learn new things.
+I've been working on Two Hours One Life since 2018 [Github](https://github.com/twohoursonelife) [Website](https://twohoursonelife.com), a fork of One Hour One Life, an open source parenting and civilisation game. I've come and gone from this project over the years but have directly and indirectly learnt an unimaginable amount of what I know from this.
+
+I'm currently looking for role related to system admin or automation, get in touch :)
+
 <!--START_SECTION:waka-->
 <!-- HIDE OLD WAKATIME STATS
 ```text
