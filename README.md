@@ -2,9 +2,6 @@
   
 ## Hey! I'm Connor! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/connorhsm/)
 
-
----
-
 ### About me
 I began teaching myself to code in 2016 and love continuing to learn new things.
 
