@@ -24,7 +24,6 @@ I'm currently looking for a role related to system admin or automation, I'd love
   <img alt="PyPi" src="https://img.shields.io/badge/-PyPi-3775A9?style=flat-square&logo=PyPi&logoColor=white" />
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=Git&logoColor=white" />
-  <img alt"GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
   <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
   <img alt="DigtalOcean" src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=DigitalOcean&logoColor=white" />
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white" />
@@ -45,7 +44,7 @@ I'm currently looking for a role related to system admin or automation, I'd love
   <img alt="npm" src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" />
   <img alt="Vue.js" src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat-square&logo=Vuedotjs&logoColor=white" />
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=PHP&logoColor=white" />
-  <img alt="Linode" src"https://img.shields.io/badge/-Linode-00A95C?style=flat-square&logo=Linode&logoColor=white" />
+  <img alt="Linode" src="https://img.shields.io/badge/-Linode-00A95C?style=flat-square&logo=Linode&logoColor=white" />
   <img alt="Ansible" src="https://img.shields.io/badge/-Ansible-EE0000?style=flat-square&logo=Ansible&logoColor=white" />
   <img alt="CentOS" src="https://img.shields.io/badge/-CentOS-262577?style=flat-square&logo=CentOS&logoColor=white" />
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=Fedora&logoColor=white" />
@@ -61,7 +60,7 @@ I'm currently looking for a role related to system admin or automation, I'd love
   <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
   <img alt="Go" src="https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=Go&logoColor=white" />
   <img alt="Terraform" src="https://img.shields.io/badge/-Terraform-7B42BC?style=flat-square&logo=Terraform&logoColor=white" />
-  <img alt="React" src"https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />
+  <img alt="React" src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=white" />
 </p>
 
 ---
