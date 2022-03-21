@@ -35,6 +35,9 @@ I'm currently looking for a role related to system admin or automation, I'd love
   <img alt="WordPress" src="https://img.shields.io/badge/-WordPress-21759B?style=flat-square&logo=WordPress&logoColor=white" />
   <img alt="Bash" src="https://img.shields.io/badge/-Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white" />
   <img alt="Let's Encrypt" src="https://img.shields.io/badge/-Let's_Encrypt-003A70?style=flat-square&logo=Let%E2%80%99s-Encrypt&logoColor=white" />
+  <img alt="macOS" src="https://img.shields.io/badge/-macOS-000000?style=flat-square&logo=macOS&logoColor=white" />
+  <img alt="HTML" src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white" />
+  <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
 
 #### I've learnt and used some amount:
@@ -50,7 +53,8 @@ I'm currently looking for a role related to system admin or automation, I'd love
   <img alt="Fedora" src="https://img.shields.io/badge/-Fedora-51A2DA?style=flat-square&logo=Fedora&logoColor=white" />
   <img alt="Google Cloud Platform" src="https://img.shields.io/badge/-Google_Cloud_Platform-4285F4?style=flat-square&logo=google-cloud&logoColor=white" />
   <img alt="C++" src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
-  
+  <img alt="Windows Server" src="https://img.shields.io/badge/-Windows_Server-0078D6?style=flat-square&logo=windows&logoColor=white" />
+  <img alt="Tailwind" src="https://img.shields.io/badge/-Tailwind-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white" />
   
   
 </p>
