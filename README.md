@@ -61,6 +61,7 @@ I'm currently looking for a role related to system admin or automation, I'd love
   <img alt="AWS" src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white" />
   <img alt="Kubernetes" src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=Kubernetes&logoColor=white" />
   <img alt="MongoDB" src="https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white" />
+  <img alt="PowerShell" src="https://img.shields.io/badge/-PowerShell-5391FE?style=flat-square&log=PowerShell&logoColor=white" />
 </p>
 
 ---
