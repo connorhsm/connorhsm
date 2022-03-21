@@ -67,6 +67,7 @@ I'm currently looking for a role related to system admin or automation, I'd love
 ---
 
 ### My stats
+[![wakatime](https://wakatime.com/badge/user/ebffe2e6-2f88-4502-bd30-7cbcf90a49ec.svg)](https://wakatime.com/@ebffe2e6-2f88-4502-bd30-7cbcf90a49ec)
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=connorhsm&show_icons=true&count-private=true&theme=dracula "Statistics")
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=connorhsm&theme=dracula&layout=compact "Wakatime Stats")
 
