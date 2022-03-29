@@ -35,7 +35,7 @@ I'm currently looking for a role related to system admin or automation, I'd love
   <img alt="CSS" src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
 </p>
 
-#### I've learnt and used some amount:
+#### I have brief experience with:
 <p>
   <img alt="Javascript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
   <img alt="Node.js" src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=NodedotJS&logoColor=white" />
