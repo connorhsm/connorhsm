@@ -67,17 +67,19 @@ I'm currently looking for a role related to system admin or automation, I'd love
 ---
 
 ### My stats
-[![wakatime all time](https://wakatime.com/badge/user/ebffe2e6-2f88-4502-bd30-7cbcf90a49ec.svg)](https://wakatime.com/@ebffe2e6-2f88-4502-bd30-7cbcf90a49ec)
 
-![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=connorhsm&show_icons=true&count-private=true&theme=dracula "Statistics")
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=connorhsm&show_icons=true&count-private=true&theme=dracula&include_all_commits=true)
 
-![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=connorhsm&theme=dracula&layout=compact "Wakatime 7 day stats")
+This week:
+
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=connorhsm&theme=dracula&layout=compact)
 
 
 <!--
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs?username=connorhsm&theme=dracula&layout=compact "Top languages")
 ![https://github-readme-streak-stats.herokuapp.com/demo/](https://github-readme-streak-stats.herokuapp.com/?user=connorhsm&theme=dracula "Streaks")
-![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=connorhsm&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET,UNKNOWN "Trophies") 
+![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=connorhsm&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET,UNKNOWN "Trophies")
+[![wakatime all time](https://wakatime.com/badge/user/ebffe2e6-2f88-4502-bd30-7cbcf90a49ec.svg)](https://wakatime.com/@ebffe2e6-2f88-4502-bd30-7cbcf90a49ec)
 -->
 
 <!--START_SECTION:waka-->
