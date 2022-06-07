@@ -1,17 +1,13 @@
 <!--<div align="center"></div>-->
   
-## Hey! I'm Connor! [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/connorhsm/)
+## Hello :)
 
-### About me
-I began teaching myself to code in 2016 and love continuing to learn new things.
-
-I've worked on [Two Hours One Life](https://github.com/twohoursonelife) since 2018. I've come and gone from this project over the years but have directly and indirectly learnt an unimaginable amount of what I know from this community.
-
-I'm currently looking for a role related to system admin or automation, I'd love to have a chat :)
+Self taught dev working in open source, freelancing and passion projects since 2016.
 
 ---
 
 ### Languages and Tools
+*Note! I couldn't know every one of these things in depth! This is a rough guage of what I have experience with.*
 
 #### I'm comfortable with:
 <p>
