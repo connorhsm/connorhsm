@@ -1,0 +1,10 @@
+[user]
+  name = Connor Smith
+  email = connorhsmith@gmail.com
+[core]
+  excludesfile = /home/connorhsm/.gitignore-global
+  editor = vim
+[credential]
+  helper = store
+[includeIf "gitdir:~/work-github/"]
+  path = .gitconfig-zetifi
