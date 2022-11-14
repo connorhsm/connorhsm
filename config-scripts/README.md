@@ -14,6 +14,7 @@ This will be a place to store my base system config scripts for easy retrieval o
 - EpicGames
 - Windows Terminal
 - WSL2
+  - GitHub CLI (and complete auth)
 - Docker
 - Cloudflare Warp
 - Google Drive for Desktop
