@@ -1,0 +1,4 @@
+.wakatime-project
+.vscode/
+.env
+node_modules/
