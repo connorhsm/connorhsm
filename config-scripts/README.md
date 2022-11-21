@@ -15,9 +15,13 @@ This will be a place to store my base system config scripts for easy retrieval o
 - Windows Terminal
 - WSL2
   - GitHub CLI (and complete auth)
+  - NVM
+  - Starship.rs
+  - All configs in this dir
 - Docker
 - Cloudflare Warp
 - Google Drive for Desktop
 - GitHub desktop
 - proCertum smart sign
 - Zttlr
+
