@@ -1,11 +1,9 @@
-<!--<div align="center"></div>-->
-  
 ## Hello :)
 
 Self taught dev working in open source, freelancing and passion projects since 2016.
 
 ---
-
+<!---
 ### Languages and Tools
 *Note! I couldn't know every one of these things in depth! This is a rough guage of what I have experience with.*
 
@@ -64,19 +62,20 @@ Self taught dev working in open source, freelancing and passion projects since 2
 
 ### My stats
 
-![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=connorhsm&show_icons=true&count-private=true&theme=dracula&include_all_commits=true)
+
 
 This week:
-
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs?username=connorhsm&theme=dracula&layout=compact "Top languages")
 ![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/wakatime?username=connorhsm&theme=dracula&layout=compact)
 
 
-<!--
-![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api/top-langs?username=connorhsm&theme=dracula&layout=compact "Top languages")
+
+![https://github.com/anuraghazra/github-readme-stats](https://github-readme-stats.vercel.app/api?username=connorhsm&show_icons=true&count-private=true&theme=dracula&include_all_commits=true)
+
 ![https://github-readme-streak-stats.herokuapp.com/demo/](https://github-readme-streak-stats.herokuapp.com/?user=connorhsm&theme=dracula "Streaks")
 ![https://github.com/ryo-ma/github-profile-trophy](https://github-profile-trophy.vercel.app/?username=connorhsm&theme=dracula&rank=SSS,SS,S,AAA,AA,A,SECRET,UNKNOWN "Trophies")
 [![wakatime all time](https://wakatime.com/badge/user/ebffe2e6-2f88-4502-bd30-7cbcf90a49ec.svg)](https://wakatime.com/@ebffe2e6-2f88-4502-bd30-7cbcf90a49ec)
--->
+
 
 <!--START_SECTION:waka-->
 <!-- HIDE OLD WAKATIME STATS
