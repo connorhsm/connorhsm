@@ -6,7 +6,7 @@ I'm all about Open Source, Python and automation.
 
 I taught myself to code as a teen, modding and running Minecraft servers.
 
-Now days I'm a Junior Dev/Ops engineer at [Zetifi](https://zetifi.com). In my free time I maintain [Two Hours, One Life](https://twohoursonelife.com) and contribute to Open Source.
+I'm now a Junior Dev/Ops engineer at [Zetifi](https://zetifi.com). In my free time I maintain [Two Hours, One Life](https://twohoursonelife.com) and contribute to Open Source.
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
