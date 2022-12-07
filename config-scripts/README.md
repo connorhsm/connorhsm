@@ -2,6 +2,8 @@ TODO
 
 This will be a place to store my base system config scripts for easy retrieval on new systems.
 
+Beginning to automate the WSL2 side of things in `setup.sh`. Execute this to install all WSL2 software, not yet reliable.
+
 ### Install list for Windows
 - Firefox
   - Bitwarden
@@ -14,11 +16,7 @@ This will be a place to store my base system config scripts for easy retrieval o
 - EpicGames
 - Windows Terminal
 - WSL2
-  - Zsh
-  - GitHub CLI (and complete auth)
-  - NVM
-  - Starship.rs
-  - All configs in this dir
+  - Run setup.sh
 - Docker
 - Cloudflare Warp
 - Google Drive for Desktop
