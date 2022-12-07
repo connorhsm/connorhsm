@@ -6,8 +6,7 @@ cd ~
 touch ~/.hushlogin
 mkdir github
 mkdir work-github
-git clone https://github.com/connorhsm/connorhsm/
-cd connorhsm/config-scripts
+cd .connorhsm/config-scripts
 cp .git* ~
 cp .wakatime.cfg ~
 # Need to copy zsh config files
