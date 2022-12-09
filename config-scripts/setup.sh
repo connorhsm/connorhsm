@@ -9,7 +9,7 @@ mkdir work-github
 cd .connorhsm/config-scripts
 cp .git* ~
 cp .wakatime.cfg ~
-# Need to copy zsh config files
+cp .zshrc ~
 # Store a env var file in bitwarden and import it?
 # Wakatime key
 cd ~
