@@ -1,4 +1,4 @@
-#### Software dev (devops)
+### Software dev (devops)
 
 I taught myself to code and manage systems.
 
