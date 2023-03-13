@@ -2,7 +2,7 @@
 
 I taught myself to code and manage systems.
 
-- Full time [@Zetifi](https://github.com/Zetifi)
+- Working [@Zetifi](https://github.com/Zetifi)
 - Maintaining [Two Hours, One Life](https://twohoursonelife.com)
 - Looking for projects to maintain.
 
