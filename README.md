@@ -1,4 +1,4 @@
-### Software dev (devops)
+### DevOps Engineer
 
 I taught myself to code and manage systems.
 
