@@ -1,4 +1,4 @@
-### DevOps Engineer
+### DevOps Engineer and Open Source Maintainer
 
 I taught myself to code and manage systems.
 
