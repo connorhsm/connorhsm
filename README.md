@@ -6,6 +6,8 @@ I taught myself to code and manage systems.
 - Maintaining [Two Hours, One Life](https://twohoursonelife.com)
 - Looking for projects to maintain.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G71V786)
+
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
