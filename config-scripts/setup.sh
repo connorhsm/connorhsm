@@ -20,6 +20,7 @@ curl -sS https://starship.rs/install.sh | sh
 # Need to be able to pass yes to above
 git clone https://github.com/dracula/zsh.git .dracula-zsh
 ln -s ~/.dracula-zsh/dracula.zsh-theme ~/.oh-my-zsh/themes/dracula.zsh-theme
+curl https://pyenv.run | bash
 curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.2/install.sh | bash
 nvm install --lts
 nvm use --lts
