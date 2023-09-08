@@ -4,9 +4,6 @@ I taught myself to code and manage systems.
 
 - Working [@Zetifi](https://github.com/Zetifi)
 - Maintaining [Two Hours, One Life](https://twohoursonelife.com)
-- Looking for projects to maintain.
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/G2G71V786)
 
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
