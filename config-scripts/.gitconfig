@@ -2,6 +2,7 @@
   name = Connor Smith
   email = connorhsmith@gmail.com
 [core]
+  # Update depending on system path
   excludesfile = /home/connorhsm/.gitignore-global
   editor = vim
 [credential]
