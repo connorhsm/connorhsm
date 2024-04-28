@@ -1,0 +1,20 @@
+name: Sync AHAP
+on:
+  workflow_dispatch:
+  schedule:
+    # Every 15 minutes starting at the 10th minute of the hour to offset from GitHub capacity
+    # 10, 25, 40, 55
+    - cron:  '10/15 * * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Sync
+      run: |
+        git clone --mirror https://github.com/jasonrohrer/AnotherPlanetData
+        cd AnotherPlanetData.git/
+        git remote add mirror https://connorhsm:$GITHUB_TOKEN@github.com/connorhsm/AnotherPlanetData-mirror
+        git push --mirror mirror
+      env:
+        GITHUB_TOKEN: ${{ secrets.AHAP_SYNCER_GITHUB_TOKEN }}
