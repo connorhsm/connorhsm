@@ -1,7 +1,5 @@
 ### DevOps Engineer and Open Source Maintainer
 
-I taught myself to code and manage systems.
-
 <p>
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
 <img alt="GitHub Actions" src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" />
