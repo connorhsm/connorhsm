@@ -15,7 +15,8 @@ services:
       OPS: |
         tahtekcub
       RCON_CMDS_STARTUP: |
-        gamerule playersSleepingPercentage 0
+        gamerule playersSleepingPercentage 50
+      # Server icon setup manually
       
     tty: true
     stdin_open: true
