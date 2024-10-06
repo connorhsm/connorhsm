@@ -11,7 +11,7 @@ services:
       MOTD: A Super Secret Minecraft Server
       DIFFICULTY: normal
       SPAWN_PROTECTION: 16
-      RESOURCE_PACK: https://github.com/connorhsm/connorhsm/releases/download/mc-resource-pack/VanillaTweaks_r949870_MC1.21.x.zip
+      RESOURCE_PACK: https://github.com/connorhsm/connorhsm/releases/download/mc-resource-pack/VanillaTweaks_r834374_MC1.21.x.zip
       OPS: |
         tahtekcub
       RCON_CMDS_STARTUP: |
