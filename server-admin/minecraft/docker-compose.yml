@@ -10,7 +10,7 @@ services:
       EULA: "TRUE"
       MOTD: "A Super Secret Minecraft Server"
       DIFFICULTY: "normal"
-      SPAWN_PROTECTION: 0
+      SPAWN_PROTECTION: 16
       OPS: |
         tahtekcub
       RCON_CMDS_STARTUP: |
