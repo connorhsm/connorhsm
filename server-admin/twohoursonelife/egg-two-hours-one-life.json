@@ -1,0 +1,35 @@
+{
+    "_comment": "DO NOT EDIT: FILE GENERATED AUTOMATICALLY BY WISP - https:\/\/wisp.gg\/",
+    "meta": {
+        "version": "PTDL_v1"
+    },
+    "exported_at": "2024-12-15T11:19:57+00:00",
+    "name": "Two Hours One Life",
+    "tag": "null",
+    "author": "sir3lit@gmail.com",
+    "description": "A game",
+    "image": "ghcr.io\/connorhsm\/twohoursonelife:yolk",
+    "startup": ".\/OneLifeServer",
+    "disable_special_characters_in_database_passwords": false,
+    "config": {
+        "files": "{}",
+        "startup": "{\n    \"done\": \"Listening for connection on port\"\n}",
+        "logs": "{}",
+        "stop": "^C",
+        "custom": "{}"
+    },
+    "scripts": {
+        "installation": {
+            "script": "#!\/bin\/bash\nset -ex\n\nWORKDIR=\"\/mnt\/server\"\n\ncd $WORKDIR\n\nrm -rf build\/\n\nmkdir -p build\n\n### Checkout minorGems ###\ncd $WORKDIR\/build\ngit clone https:\/\/github.com\/twohoursonelife\/minorGems.git\ncd minorGems\ngit fetch --tags\nminorGemsVersion=$(git for-each-ref --sort=-creatordate --format '%(refname:short)' --count=1 refs\/tags\/2HOL_v* | sed -e 's\/2HOL_v\/\/')\ngit checkout -q 2HOL_v$minorGemsVersion\n\n### Checkout OneLife ###\ncd $WORKDIR\/build\ngit clone https:\/\/github.com\/twohoursonelife\/OneLife.git\ncd OneLife\ngit fetch --tags\noneLifeVersion=$(git for-each-ref --sort=-creatordate --format '%(refname:short)' --count=1 refs\/tags\/2HOL_v* | sed -e 's\/2HOL_v\/\/')\ngit checkout -q 2HOL_v$oneLifeVersion\n\n### Checkout OneLifeData7 ###\ncd $WORKDIR\/build\ngit clone https:\/\/github.com\/twohoursonelife\/OneLifeData7.git\ncd OneLifeData7\ngit fetch --tags\noneLifeDataVersion=$(git for-each-ref --sort=-creatordate --format '%(refname:short)' --count=1 refs\/tags\/2HOL_v* | sed -e 's\/2HOL_v\/\/')\ngit checkout -q 2HOL_v$oneLifeDataVersion\n\n### Compile the server ###\ncd $WORKDIR\/build\/OneLife\/server\n\n.\/configure 1\nmake\n.\/makeDBConvert\n\n### Setup the runtime structure ###\ncd $WORKDIR\nmkdir -p OneLifeData7\/ settings\/\n\necho $oneLifeVersion > serverCodeVersionNumber.txt\n\ncp -r build\/OneLife\/server\/OneLifeServer OneLifeServer\ncp -r build\/OneLife\/server\/settings settings\ncp -r build\/OneLife\/server\/*Names.txt .\n\ncp -r build\/OneLifeData7\/categories categories\ncp -r build\/OneLifeData7\/objects objects\ncp -r build\/OneLifeData7\/transitions transitions\ncp -r build\/OneLifeData7\/tutorialMaps tutorialMaps\ncp -r build\/OneLifeData7\/dataVersionNumber.txt dataVersionNumber.txt\n\nlatestVersion=$oneLifeVersion\nif [ $oneLifeDataVersion -gt $oneLifeVersion ]; then\n\tlatestVersion=$oneLifeDataVersion\nfi\necho $latestVersion > versionNumber.txt\n\n### Clean up ###\nrm -rf $WORKDIR\/build\n\n## install end\necho \"-----------------------------------------\"\necho \"Installation completed...\"\necho \"-----------------------------------------\"",
+            "container": "ghcr.io\/connorhsm\/twohoursonelife:installer",
+            "entrypoint": "bash"
+        },
+        "update": {
+            "script": null,
+            "container": "alpine:3.4",
+            "entrypoint": "ash"
+        }
+    },
+    "variables": [],
+    "mods": []
+}
