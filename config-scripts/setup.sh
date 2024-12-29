@@ -44,3 +44,9 @@ chsh -s $(which zsh)
 
 # Cleanup
 rm .bashrc .bash_logout .profile .zshrc.pre-oh-my-zsh .shell.pre-oh-my-zsh
+
+
+# ln -s ~/.connorhsm/config-scripts/.gitconfig-zetifi ~/.gitconfig-zetifi
+# ln -s ~/.connorhsm/config-scripts/.gitignore-global ~/.gitignore-global
+# ln -s ~/.connorhsm/config-scripts/.wakatime.cfg ~/.wakatime.cfg
+# ln -s ~/.connorhsm/config-scripts/.zsh_aliases ~/.zsh_aliases
