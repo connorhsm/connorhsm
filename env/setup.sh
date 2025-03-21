@@ -51,3 +51,8 @@ rm .bashrc .bash_logout .profile .zshrc.pre-oh-my-zsh .shell.pre-oh-my-zsh
 # ln -s ~/.connorhsm/config-scripts/.wakatime.cfg ~/.wakatime.cfg
 # ln -s ~/.connorhsm/config-scripts/.zsh_aliases ~/.zsh_aliases
 # ln -s ~/.connorhsm/env/ghostty ~/.config/ghostty/config
+# sudo ln -s /snap/k9s/current/bin/k9s /snap/bin
+
+# snap install steam spotify k9s discord obsidian firefox
+ 
+# install gcloud k9s uv 

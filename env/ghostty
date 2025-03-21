@@ -1,6 +1,6 @@
 theme = catppuccin-mocha
-window-height = 30
-window-width = 128
+# window-height = 30
+# window-width = 128
 
 window-title-font-family = "Hack Nerd Font"
 

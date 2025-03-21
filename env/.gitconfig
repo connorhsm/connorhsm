@@ -7,5 +7,5 @@
   editor = vim
 [credential]
   helper = store
-[includeIf "gitdir:~/work-github/"]
-  path = .gitconfig-zetifi
+[includeIf "gitdir:~/github-work/"]
+  path = .gitconfig-work
