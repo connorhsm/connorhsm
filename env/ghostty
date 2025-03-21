@@ -1,0 +1,10 @@
+theme = catppuccin-mocha
+window-height = 30
+window-width = 128
+
+window-title-font-family = "Hack Nerd Font"
+
+font-family = "Hack Nerd Font"
+font-size = 18
+font-feature = liga
+font-thicken = true
