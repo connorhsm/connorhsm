@@ -29,3 +29,5 @@ Beginning to automate the WSL2 side of things in `setup.sh`. Execute this to ins
 - proCertum smart sign
 - Obsidian notes
 
+### macOS
+- `brew install bluesnooze`
