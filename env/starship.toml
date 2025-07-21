@@ -1,2 +1,9 @@
+[kubernetes]
+disabled = false
+
 [aws]
+disabled = true
+symbol = '☁️ '
+
+[gcloud]
 symbol = '☁️ '
