@@ -7,3 +7,6 @@ symbol = '☁️ '
 
 [gcloud]
 symbol = '☁️ '
+
+[docker_context]
+disabled = true
